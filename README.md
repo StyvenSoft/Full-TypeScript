@@ -9,3 +9,7 @@ You can install TypeScript via npm
 ```js
 npm i -g typescript
 ```
+
+---
+
+[TypeScript Documentation](https://www.typescriptlang.org/docs/)
