@@ -72,10 +72,10 @@
     "forceConsistentCasingInFileNames": true  /* Disallow inconsistently-cased references to the same file. */
   },
   "exclude": [
-    "src/analytics.ts",
+    "sub.ts",
     "**/*.dev.ts"
   ],
   "include": [
-    "sub.ts"
+    "src/analytics.ts"
   ]
 }
